@@ -2,7 +2,7 @@
 
 🎓 Senior at Eastern Washington University, majoring in Computer Science (Graduating June 2025).  
 💻 Passionate about software development, with a focus on object-oriented programming, data structures, and algorithms.  
-📚 Currently working on [Korus' Corner](https://github.com/your-repo](https://github.com/adenjonah/APAH ), a website for AP Art History students using React, Node.js, and SQLite.  
+📚 Currently working on [Korus' Corner](https://github.com/adenjonah/APAH), a website for AP Art History students using React, Node.js, and SQLite.  
 🚀 I enjoy exploring the world of Unity and 3D graphics, developing skills in game development and visual simulations.
 
 ## 🔧 Technologies & Tools:
