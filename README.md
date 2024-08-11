@@ -13,7 +13,6 @@
 
 ## 💼 Experience:
 - **Spokane Public Facilities District:** Gameday Technical Specialist (Visual Systems)
-- **MOD Pizza:** Restaurant All-Star (Team Leadership & Training)
 
 ## 🌱 Learning & Interests:
 - Game Development with Unity
