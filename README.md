@@ -20,5 +20,5 @@
 - Data Structures & Algorithms
 
 ## 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/caleb-stewart-281594274/)
 - Email: calebstew32@hotmail.com
