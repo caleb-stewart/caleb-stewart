@@ -15,9 +15,9 @@
 - **Spokane Public Facilities District:** Gameday Technical Specialist (Visual Systems)
 
 ## 🌱 Learning & Interests:
-- Game Development with Unity
-- Web Development (Full Stack)
+- Unity with C#
 - Data Structures & Algorithms
+- Web Development (Full Stack)
 
 ## 📫 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/caleb-stewart-281594274/)
