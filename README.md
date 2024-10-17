@@ -6,9 +6,9 @@
 🚀 I enjoy exploring the world of backend development, focusing on server-side programming, API design, and database management. Additionally, I'm passionate about 3D graphics, delving into game development and visual simulations to create immersive experiences.
 
 ## 🔧 Technologies & Tools:
-- **Languages:** Java, Python, C, JavaScript, C# (Unity), SQL
+- **Languages:** Java, Python, C, JavaScript, C# (Unity)
 - **Frameworks & Libraries:** React, Node.js, Python Flask, OpenGL
-- **Tools:** Git, GitHub, JetBrains IDEs, Unity
+- **Tools:** Git, GitHub, Unity
 - **Databases:** SQL
 
 ## 💼 Experience:
