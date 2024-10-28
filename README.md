@@ -17,8 +17,8 @@
 ## 🌱 Learning & Interests:
 - Backend Development
 - Data Structures & Algorithms
+- Data Science and Data Analysis
 - Unity with C#
-- Web Development (Full Stack)
 
 ## 📫 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/caleb-stewart-281594274/)
