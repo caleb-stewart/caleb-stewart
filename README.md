@@ -7,7 +7,7 @@
 
 ## 🔧 Technologies & Tools:
 - **Languages:** Java, Python, C, JavaScript, C# (Unity)
-- **Frameworks & Libraries:** React, Node.js, Python Flask, OpenGL
+- **Frameworks & Libraries:** Pandas, Matplotlib, Scikit-learn, React, Python Flask, OpenGL
 - **Tools:** Git, GitHub, Unity
 - **Databases:** SQL
 
