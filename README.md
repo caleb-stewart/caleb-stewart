@@ -24,4 +24,4 @@
 ## 📫 Let's Connect:
 - [Email](calebstew32@hotmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/caleb-stewart-281594274/)  
-- [Portfolio](https://caleb-stewart.github.io)  
+- [Coursework Showcase](https://caleb-stewart.github.io)  
