@@ -2,10 +2,10 @@
 
 🎓 Senior at Eastern Washington University, majoring in Computer Science (Graduating June 2025).  
 
-## 📚 Current Coursework (Winter 2025):
-- Big Data Analytics  
-- Machine Learning  
-- Senior Project
+## 📚 Current Coursework (Spring 2025):
+- Deep Learning
+- Virtual Reality & Computer Graphics
+- Senior Capstone
 - See my previous coursework [here!](https://caleb-stewart.github.io)
 
 ## 🔧 Technologies & Tools:
